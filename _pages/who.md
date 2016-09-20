@@ -3,7 +3,7 @@ title: "Who Are We?"
 layout: single
 excerpt: "We're awesome!!"
 sitemap: false
-permalink: /who.html
+permalink: /who.md
 ---
 
 #WE'RE AWESOME!!!
