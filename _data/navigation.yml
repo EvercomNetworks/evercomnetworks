@@ -3,8 +3,8 @@ main:
   - title: "Sample Navigation Link"
     url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "README.md"
+    url: /README.md
     
   - title: "Who Are We"
-    url: /_pages/who
+    url: /_pages/who.md
