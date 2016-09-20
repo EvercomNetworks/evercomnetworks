@@ -7,4 +7,4 @@ main:
     url: README.md
     
   - title: "Who Are We"
-    url: who
+    url: /who
