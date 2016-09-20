@@ -4,7 +4,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
   - title: "README.md"
-    url: /README.md
+    url: README.md
     
   - title: "Who Are We"
-    url: /_pages/who.md
+    url: /_pages/who
